@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/parser": "^7.7.7",
+    "@babel/traverse": "^7.7.4"
+  }
+}
